@@ -59,4 +59,4 @@ The result is a clean, emotionally resonant landing page that:
 ✅ Encourages users to take action through the “Order Now” CTA
 
 🔗 Live Demo (Optional)
-👉 [[Insert link if deployed](http://127.0.0.1:5500/TASK1/Venu-Tulsi-mala.html)]
+👉 [[Live Demo](http://127.0.0.1:5500/TASK1/Venu-Tulsi-mala.html)]
